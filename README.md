@@ -1,7 +1,7 @@
 🚀 Adaptive Explainable Hybrid Stock Market Prediction System
 
 An AI-powered hybrid stock forecasting framework integrating Statistical Models, Deep Learning, Explainable AI, and Swarm Optimization for accurate and interpretable stock market prediction.
-==========================================================
+------------------------------------------------------
 📌 Overview
 
 This project presents a research-oriented intelligent stock market prediction system that combines:
@@ -14,8 +14,7 @@ This project presents a research-oriented intelligent stock market prediction sy
 📉 Multi-Feature Financial Prediction
 
 The system is designed to improve forecasting accuracy while maintaining interpretability and adaptability to changing market conditions.
-
-================================================================
+---------------------------------------------------------
 ✨ Key Features
 🔹 Hybrid Prediction Models
 
@@ -70,7 +69,7 @@ Deep Learning Models	RNN, LSTM
 Hybrid Models	ARIMA+LSTM, SARIMA+LSTM, RNN+LSTM, SARIMA+RNN
 Optimized Models	PSO-based Hybrid Architectures
 📊 Evaluation Metrics
-===================================================================
+---------------------------------------------------------
 The project evaluates models using:
 
 RMSE (Root Mean Squared Error)
@@ -162,7 +161,6 @@ This project introduces:
 ✅ Multi-objective optimization techniques
 
 📑 Patent-Oriented Innovations
-===============================================================
 Potential patentable modules include:
 
 Adaptive Hybrid Forecasting Engine
@@ -193,7 +191,7 @@ Open:
 Final_Predicted_Output.ipynb
 
 Run all cells sequentially.
-==================================================================
+----------------------------------------------------------------
 📊 Example Results
 | Model              | RMSE   | R² Score  |
 | ------------------ | ------ | --------- |
@@ -201,8 +199,7 @@ Run all cells sequentially.
 | SARIMA + LSTM      | Better | Better    |
 | RNN + LSTM         | Strong | Strong    |
 | SARIMA + RNN + PSO | Best   | Excellent |
-
-==================================================================
+------------------------------------------------------------
 🎯 Future Improvements
 Transformer-based models
 Attention Mechanisms
@@ -211,7 +208,7 @@ Real-time API integration
 Live trading signal generation
 Auto-retraining pipelines
 
-=========================================================================
+------------------------------------------------------------
 👨‍💻 Author
 Uttkarsh Khanke
 
