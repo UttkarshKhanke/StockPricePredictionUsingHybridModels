@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+keras
+statsmodels
+pyswarms
+tabulate
+scipy
+joblib
+jupyter
+notebook
+ipykernel
